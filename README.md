@@ -34,9 +34,9 @@ Este projeto implementa um **sistema de controle de LEDs RGB e um display OLED S
 | Joystick Eixo Y | GPIO 27 (ADC1) |
 | Botão Joystick | GPIO 22 |
 | Botão A | GPIO 5 |
-| LED Vermelho (PWM) | GPIO 13 |
+| LED Vermelho (PWM) | GPIO 11 |
 | LED Verde (Botão Joystick) | GPIO 12 |
-| LED Azul (PWM) | GPIO 11 |
+| LED Azul (PWM) | GPIO 13 |
 | Display OLED SDA | GPIO 14 |
 | Display OLED SCL | GPIO 15 |
 
